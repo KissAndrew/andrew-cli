@@ -13,7 +13,7 @@ npm install nrm -g
 #查看当前学有所成 
 nrm ls
 #添加指定定源 
-npm add andrew http://ip:port/
+nrm add andrew http://ip:port/
 #查看是否成功 
 nrm ls
 #切换到指定源
